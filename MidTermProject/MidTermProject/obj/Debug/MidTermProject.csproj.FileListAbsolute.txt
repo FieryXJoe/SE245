@@ -1,0 +1,10 @@
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\bin\Debug\MidTermProject.exe.config
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\bin\Debug\MidTermProject.exe
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\bin\Debug\MidTermProject.pdb
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.csprojAssemblyReference.cache
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.Properties.Resources.resources
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.csproj.GenerateResource.cache
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.csproj.CoreCompileInputs.cache
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.exe
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.pdb
+C:\Users\jsher\source\repos\MidTermProject\MidTermProject\obj\Debug\MidTermProject.Form1.resources

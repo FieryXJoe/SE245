@@ -1,0 +1,10 @@
+C:\Users\jsher\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\jsher\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\jsher\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\jsher\source\repos\Lab5\Lab5\obj\Debug\Lab5.Form1.resources

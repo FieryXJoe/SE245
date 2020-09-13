@@ -1,0 +1,12 @@
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab5Part3.Form1.resources
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.FormSearch.resources
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.FormSelector.resources
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\jsher\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\jsher\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\jsher\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\jsher\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb
